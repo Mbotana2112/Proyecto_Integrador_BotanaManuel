@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "Portafolio/node_modules/bootstrap/dist/css/bootstrap.css"
+              "C:/Users/Manuel/Documents/Argentina Programa/Proyecto_Integrador_BotanaManuel/Portafolio/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "Portafolio/node_modules/bootstrap/dist/js/bootstrap.js"
+              "C:/Users/Manuel/Documents/Argentina Programa/Proyecto_Integrador_BotanaManuel/Portafolio/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
