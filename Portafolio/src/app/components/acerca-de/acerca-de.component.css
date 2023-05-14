@@ -2,8 +2,9 @@
     padding: 20px;
 }
 div{
-    background-color: #5770eee0;
+    background-color: #136ab9;
     text-align: center;
+    box-shadow:3px 3px 3px 2px rgb(48, 48, 48);
 }
 
 @media (min-width:576px) {
